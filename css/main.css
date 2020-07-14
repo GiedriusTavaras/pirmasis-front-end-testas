@@ -1,0 +1,16 @@
+.divas {
+    display: inline-block;
+    background-color: red;
+    width: 800px;
+    margin: 40px calc(50% - 400px);
+}
+    .labas {
+        text-align: center;
+
+    }
+    .pabudome {
+        font-size: 30px;
+        text-transform: uppercase;
+        text-align: center;
+        
+    }
